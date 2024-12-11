@@ -48,3 +48,23 @@
 # movies.append(mov2)
 
 # print(movies)
+
+# ------> Practice 2
+
+# list1=int(input("Enter the numbers seperaed by commas:"))
+# list1=["R","a","o"]
+
+# list_copy=list1.copy()
+# # list_copy=list2.copy()
+# list_copy.reverse()
+# if(list1 == list_copy):
+#     print(" The Enterd Number are palindrome !")
+# else:
+#     print("No the Enterd Elements are not a palindrome !")
+
+# ------> Practice 3
+
+# List=["A","Z","B","T","M","L","O"]
+# List.sort()
+# print(List)
+ 
